@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+  int a=20, b=40;
+  clrscr();
+  if (a>b)
+  {
+      printf("\n a is big");
+  }
+  else
+  {
+      printf("\n b is big");
+  }
+  getch();
+}
